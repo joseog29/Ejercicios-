@@ -1,0 +1,3 @@
+from n_reinas_iterativa import n_reinas_iterativo
+from n_reinas_recursiva import n_reinas_recursivo
+
